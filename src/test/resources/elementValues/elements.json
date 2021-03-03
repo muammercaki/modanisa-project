@@ -1,0 +1,49 @@
+[
+  {
+    "key": "todoInput",
+    "value": "input[class='new-todo']",
+    "type": "css"
+  },
+  {
+    "key": "inputTextFirst",
+    "value": "div[class='view'] label",
+    "type": "css"
+  },
+  {
+    "key": "inputTextSecond",
+    "value": "//li[2]/div[@class='view']/label[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "firstTextCheckBox",
+    "value": "li[class='todo']:nth-child(1) input[class='toggle']",
+    "type": "css"
+  },
+  {
+    "key": "selectedItem",
+    "value": "li[class='todo completed']",
+    "type": "css"
+  },
+  {
+    "key": "deleteItem",
+    "value": "button[class='destroy']",
+    "type": "css"
+  },
+  {
+    "key": "inputText",
+    "value": "div[class='view'] label",
+    "type": "css"
+  },
+  {
+    "key": "secondItem",
+    "value": "li[class='todo']:nth-child(2)",
+    "type": "css"
+  },
+  {
+    "key": "secondItemRemove",
+    "value": "li[class='todo']:nth-child(2) button[class='destroy']",
+    "type": "css"
+  }
+]
+
+
